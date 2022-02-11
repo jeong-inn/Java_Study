@@ -5,7 +5,7 @@ public class PersonTest {
 		Person Son = new Person();
 		Son.name = "손정인";
 		
-		Person hong = new Person("홍길동", 175, 75);
+		Person  Hong = new Person("홍길동", 175, 75);
 	}
 	
 	
